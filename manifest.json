@@ -1,0 +1,26 @@
+{
+  "name": "TCF GIS Map",
+  "short_name": "TCF GIS",
+  "id": "/tcf-gis-map-2026/",
+  "start_url": "/tcf-gis-map-2026/",
+  "scope": "/tcf-gis-map-2026/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a9c6b",
+  "theme_color": "#1a9c6b",
+  "description": "TCF Schools GIS Mapping Tool",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
